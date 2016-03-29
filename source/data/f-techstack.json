@@ -1,0 +1,40 @@
+{
+  "rowQty": 3,
+  "colType": "xs",
+  "techstack": [{
+    "text": "Front End",
+    "border-color": "#E44D26",
+    "text-color": "#000000",
+    "items": [{
+        "text": "javascript",
+        "background-color": "#F0DB4F",
+        "text-color": "#323330"
+      }, {
+        "text": "jquery",
+        "background-color": "#131B28"
+      }, {
+        "text": "bootstrap",
+        "background-color": "#4A366B"
+      }, {
+        "text": "angular",
+        "background-color": "#E03237"
+      }, {
+        "text": "backbone",
+        "background-color": "#0071B5"
+      }, {
+        "text": "underscore",
+        "background-color": "#002A41"
+      }, {
+        "text": "gulp",
+        "background-color": "#CF4646"
+      }, {
+        "text": "css",
+        "background-color": "#1673B6",
+        "text-color": "#000"
+      }, {
+        "text": "sass",
+        "background-color": "#CC6699"
+      }
+    ]
+  }]
+}

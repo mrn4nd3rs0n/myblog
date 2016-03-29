@@ -1,0 +1,39 @@
+{
+  "rowQty": 3,
+  "colType": "xs",
+  "techstack": [{
+    "text": "Back End",
+    "border-color": "#90C53F",
+    "text-color": "#000000",
+    "items": [{
+        "text": "javascript",
+        "background-color": "#F0DB4F",
+        "text-color": "#323330"
+      }, {
+        "text": "c#",
+        "background-color": "#690081"
+      }, {
+        "text": "java",
+        "background-color": "#E11F22"
+      }, {
+        "text": "node.js",
+        "background-color": "#90C53F"
+      }, {
+        "text": ".net",
+        "background-color": "#0074A7"
+      }, {
+        "text": "azure",
+        "background-color": "#00BCF2"
+      }, {
+        "text": "appengine",
+        "background-color": "#5691CC"
+      }, {
+        "text": "mssqlserver",
+        "background-color": "#E2312D"
+      }, {
+        "text": "mongodb",
+        "background-color": "#008F3F",
+        "text-color":"#412F2B"
+      }]
+  }]
+}
